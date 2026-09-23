@@ -1,2 +1,3 @@
 # Java-Basic
-Repostório de estudos
+Repostorio de estudos
+Alterando no vscode
