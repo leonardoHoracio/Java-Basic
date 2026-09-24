@@ -1,3 +1,3 @@
 # Java-Basic
 Repostorio de estudos
-Alterando no vscodes
+Alterando no vscode
